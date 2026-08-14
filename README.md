@@ -1,6 +1,6 @@
 # Merhaba! 👋
 
-I'm Sinan, a software developer based in Istanbul with 8+ years of experience building enterprise systems.
+I'm Sinan, a software developer based in Istanbul with 10+ years of experience building enterprise systems.
 
 ## About me
 
