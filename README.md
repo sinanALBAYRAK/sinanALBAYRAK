@@ -1,16 +1,28 @@
-### Hi, I'm Sinan Albayrak 👋
+# Merhaba! 👋
 
-Software Developer based in Istanbul, focused on building enterprise-grade backend systems.
+I'm Sinan, a software developer based in Istanbul with 8+ years of experience building enterprise systems.
 
-- 🔭 Currently building enterprise manufacturing & ERP platforms using modular monolith .NET architectures, integrated with SAP
-- 💻 Primary stack: C# / .NET, PL/SQL, TypeScript
-- 🏢 Domain experience: insurance software, logistics software, ERP & manufacturing systems
-- 🌱 Interested in clean architecture, domain-driven design, and enterprise system integrations
-- 📫 Reach me on [LinkedIn](https://tr.linkedin.com/in/sinan-albayrak-51b69aab)
+## About me
 
-#### Tech Stack
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+Throughout my career, I have mainly worked with Microsoft technologies (.NET/C#) alongside PL/SQL and TypeScript, building backend systems for insurance and logistics companies as well as enterprise manufacturing and ERP platforms. I've been involved in projects covering server-side programming, relational database design, and SAP integrations, often playing an active role in modernizing and refactoring existing enterprise systems.
+
+## Backend
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## Frontend
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Domain Experience
+- 🏢 Insurance software
+- 🚚 Logistics software
+- 🏭 Enterprise manufacturing & ERP systems, SAP integrations
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/sinan-albayrak-51b69aab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinanalbayrak@hotmail.com.tr)
+
+- 🔭 I'm currently working on enterprise manufacturing & ERP platforms
+- 💬 Ask me about .NET, PL/SQL, and enterprise system integrations
